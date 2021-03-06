@@ -1,4 +1,4 @@
-# todo-vanilla-js
+# simple-todo-js
 Una app de cosas por hacer muy simple
 
 # Screenshot
